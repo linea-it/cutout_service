@@ -16,6 +16,9 @@ Moved to [settings](http://cookiecutter-django.readthedocs.io/en/latest/settings
 - Home: <http://localhost:8000>
 - Admin: <http://localhost:8000/admin/>
 - API REST: <http://localhost:8000/api/>
+- MailHog (emails enviados pela aplicação): <http://127.0.0.1:8025/>
+- Celery Flower: <http://localhost:5555>
+- Project Docs : <http://localhost:9000>
 
 ## Basic Commands
 
